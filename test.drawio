@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T01:31:33.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="kzGxYOFa9r-gSybWmzEz" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T01:33:58.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="hy4x7qx6H1tyjC9q0A7c" version="24.3.1" type="github">
   <diagram name="第 1 页" id="70T1MRnKtIXGYT4ElFIe">
     <mxGraphModel dx="1386" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="SnNNpA_Og-Mve1esX4ld-6" value="连接器/整合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="320" width="271" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SnNNpA_Og-Mve1esX4ld-7" value="存储[&lt;span style=&quot;background-color: initial;&quot;&gt;MYSQL]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SnNNpA_Og-Mve1esX4ld-7" value="上游系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="400" width="271" height="60" as="geometry" />
         </mxCell>
       </root>
